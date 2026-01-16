@@ -1,5 +1,10 @@
-## Hi there 👋
-# I'm 8llipse.
+<h1 align="center">
+  Hi 👋 I'm 8llipse! 
+</h1>
+
+<h3 align="center">
+  I'm an ordinary metalhead who sometimes uses Github.
+</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
