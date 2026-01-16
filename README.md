@@ -6,7 +6,7 @@
   I'm an ordinary metalhead who sometimes uses Github.
 </h3>
 
-- 🔭 I’m currently working on developing some games using Unity.
+- 🔭 I’m currently working on creating and developing games using Unity.
 - 🌱 I’m currently learning C# (Unity C#), HTML, CSS, and Python.
 - 🎧 I love and often listen to some death metal bands like Fleshgod Apocalypse, Infant Annihilator, and Nile.
 <!--
