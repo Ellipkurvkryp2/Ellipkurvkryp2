@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on creating and developing games using Unity.
 - 🌱 I’m currently learning C# (Unity C#), HTML, CSS, and Python.
-- 🎧 I love and often listen to some death metal bands like Fleshgod Apocalypse, Infant Annihilator, and Nile.
+- 🎧 I love and often listen to some death metal bands like Fleshgod Apocalypse.
 <!--
 **Ellipkurvkryp2/Ellipkurvkryp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
