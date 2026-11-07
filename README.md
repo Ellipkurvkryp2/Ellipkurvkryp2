@@ -9,11 +9,14 @@
 
 - 🔭 I’m currently working on creating and developing games using Unity.
 - 🌱 I’m currently learning C# (Unity C#), HTML, CSS, and Python.
-- 🎧 I love and often listen to some death metal bands like Fleshgod Apocalypse.
+- 🎧 I love and often listen to metal especially Melodeath. (Some of my favorite bands are Children of Bodom, Ebony Tears, Black Forest, Septicflesh, Fleshgod Apocalypse, Eluveitie, Xenobiotic, Infant Annihilator, No Limited Spiral, Bloodshot Dawn, Zemeth, Fracturus, and Stortregn).
+- I'm a server owner of a Japanese metal discord server "メタラーの集会所".
 
 <h4>Links:</h4>
 <ul>
+  <li>X: <a href="https://x.com/ellip_susr927">https://x.com/ellip_susr927</a></li>
   <li>unityroom: <a href="https://unityroom.com/users/ellipkurvkryp2">https://unityroom.com/users/ellipkurvkryp2</a></li>
+  <li>メタラーの集会所: <a href="https://discord.com/invite/dppFY5AgPf">https://discord.com/invite/dppFY5AgPf</a></li>
 </ul>
 <!--
 **Ellipkurvkryp2/Ellipkurvkryp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
