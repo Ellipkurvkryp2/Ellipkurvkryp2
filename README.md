@@ -6,12 +6,13 @@
   I'm an ordinary metalhead who sometimes uses Github.
 </h3>
 <h4>About Me:</h4>
+
 - 🔭 I’m currently working on creating and developing games using Unity.
 - 🌱 I’m currently learning C# (Unity C#), HTML, CSS, and Python.
 - 🎧 I love and often listen to some death metal bands like Fleshgod Apocalypse.
 
-<ul>
 <h4>Links:</h4>
+<ul>
   <li>unityroom: <a href="https://unityroom.com/users/ellipkurvkryp2">https://unityroom.com/users/ellipkurvkryp2</a></li>
 </ul>
 <!--
