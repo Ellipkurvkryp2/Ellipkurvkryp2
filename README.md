@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on creating and developing games using Unity.
 - 🌱 I’m currently learning C# (Unity C#), HTML, CSS, and Python.
-- 🎧 I love and often listen to metal especially Melodeath. (Some of my favorite bands are Children of Bodom, Ebony Tears, Black Forest, Septicflesh, Fleshgod Apocalypse, Eluveitie, Xenobiotic, Infant Annihilator, No Limited Spiral, Bloodshot Dawn, Zemeth, Fracturus, and Stortregn).
-- I'm a server owner of a Japanese metal Discord server called "メタラーの集会所".
+- I'm the owner of a Japanese metal Discord server called "メタラーの集会所".
+- 🎧 I love and often listen to metal especially Melodeath. (My Recommendations: Children of Bodom, Ebony Tears, Black Forest, Septicflesh, Fleshgod Apocalypse, Eluveitie, Xenobiotic, Infant Annihilator, No Limited Spiral, Bloodshot Dawn, Zemeth, Fracturus, Stortregn).
 
 <h4>Links:</h4>
 <ul>
