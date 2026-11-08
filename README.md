@@ -16,6 +16,7 @@
 <ul>
   <li>X: <a href="https://x.com/ellip_susr927">https://x.com/ellip_susr927</a></li>
   <li>unityroom: <a href="https://unityroom.com/users/ellipkurvkryp2">https://unityroom.com/users/ellipkurvkryp2</a></li>
+  <li>Spotify: <a href="https://open.spotify.com/user/31fk6izpnimsvcr2mprun3lvauyi">https://open.spotify.com/user/31fk6izpnimsvcr2mprun3lvauyi</a></li>
   <li>メタラーの集会所: <a href="https://discord.com/invite/dppFY5AgPf">https://discord.com/invite/dppFY5AgPf</a></li>
 </ul>
 <!--
