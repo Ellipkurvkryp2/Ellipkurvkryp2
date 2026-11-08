@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋 I'm 8llipse (Sometimes Ellipse)! 
+  Hi 👋 I'm 8llipse! (Sometimes Ellipse) 
 </h1>
 
 <h3 align="center">
